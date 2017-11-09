@@ -1,4 +1,4 @@
-# 1730sh
+# Unix Shell
 
 John Michael Kovachi
 
