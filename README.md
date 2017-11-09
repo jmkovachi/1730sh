@@ -1,7 +1,9 @@
 # 1730sh
 
 John Michael Kovachi
+
 Joshua Anickat
+
 Pradeep Ravindar
 
 ## Instructions
